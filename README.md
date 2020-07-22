@@ -9,4 +9,5 @@ MyStagram is an instagram clone, and this code is made by myself and free to con
 
 Here are the screenshots for the project 
 
-![](MyStagram%20ScreenShots/firstScreen.png)
+<img src="MyStagram%20ScreenShots/firstScreen.png" width="200" >
+<img src="MyStagram%20ScreenShots/secondScreen.png" width="200" >
